@@ -1,14 +1,14 @@
 {
-    "name": "Bharat Agsrwal",
+    "name": "Nishtha Sharma",
     "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "html 5",
+            "rating": "70"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "c",
+            "rating": "75"
         },
         {
             "title": "Skill 3",
@@ -25,8 +25,8 @@
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
+        "location": "Chitkara University",
         "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "email": "nishtha1651.cse18@chitkara.edu.in"
     }
 }
